@@ -24,15 +24,15 @@ data_file 'EXPLOSION_FILE'  'explosion.meta'
 
 data_file 'HANDLING_FILE'  'handling.meta'
 
-data_file 'VEHICLE_LAYOUTS_FILE'  vehiclelayouts.meta'
+data_file 'VEHICLE_LAYOUTS_FILE'  'vehiclelayouts.meta'
 
-data_file 'VEHICLE_METADATA_FILE'  vehicles.meta'
+data_file 'VEHICLE_METADATA_FILE'  'vehicles.meta'
 
  
 
 files {
 
-    data/**.meta'
+    'data/**.meta'
 
 }
 
@@ -46,7 +46,7 @@ data_file 'CONTENT_UNLOCKS_FILE'  'data/contentunlocks.meta'
 
 data_file 'DLC_TEXT_FILE'  'data/dlctext.meta'
 
-data_file 'EXPLOSION_FILE'  'data/'explosion.meta'
+data_file 'EXPLOSION_FILE'  'data/explosion.meta'
 
 data_file 'HANDLING_FILE'  'data/handling.meta'
 
